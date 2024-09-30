@@ -1,5 +1,5 @@
 {
-  "name": "betfair-ts",
+  "name": "@tscadams/betfair-ts",
   "version": "0.15.0",
   "description": "TypeScript library for the Betfair API.",
   "main": "lib/index.js",
